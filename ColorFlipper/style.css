@@ -1,0 +1,32 @@
+*{
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.button{
+    width: auto;
+    border-radius: 10px;
+    height: 35px;
+    margin: 5px;
+    outline: none;
+    border-style: none;
+    border: 2px solid rgb(8, 0, 0);
+}
+
+#green{
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
+
+#red{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
+
+#yellow{
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
